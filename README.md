@@ -9,3 +9,6 @@ A professional, responsive boutique flyer built entirely with **Pure HTML and CS
 ## Technologies Used
 * HTML5
 * CSS3
+![Flyer 1](Ekran2.png)
+
+![Flyer 1](Ekran.png)
